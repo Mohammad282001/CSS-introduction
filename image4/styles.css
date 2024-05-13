@@ -13,8 +13,12 @@ td{
 table {
     float:left;
     margin-right: 20px;
+
+    
 }
 
 body{
     background-color: rgb(249, 246, 248);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
